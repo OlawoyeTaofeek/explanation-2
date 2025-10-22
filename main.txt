@@ -1,0 +1,7 @@
+What it does:
+
+Downloads the entire repository (all branches, commits, and tags).
+
+Creates a local copy on your machine.
+
+Automatically sets up a remote called origin that points to the original repo.
